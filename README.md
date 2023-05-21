@@ -1,4 +1,6 @@
 Website - ReactJS: Insights Club
-![image](https://github.com/pratyushdev-codes/Insights-Club/assets/109750976/da7cefdc-ad93-4dbb-a26f-69c046c242b8)
-![image](https://github.com/pratyushdev-codes/Insights-Club/assets/109750976/106ba014-2617-425c-832e-606cc654479f)
-![image](https://github.com/pratyushdev-codes/Insights-Club/assets/109750976/99274108-1eb9-4af6-936e-e1c797c49b8b)
+![image](https://github.com/pratyushdev-codes/Insights-Club/assets/109750976/fb5b63c0-b891-40f5-8dd7-8a97bc06039b)
+![image](https://github.com/pratyushdev-codes/Insights-Club/assets/109750976/d723454b-60eb-4d76-96da-fb3a3f49e05d)
+![image](https://github.com/pratyushdev-codes/Insights-Club/assets/109750976/75984e83-18bb-4fbe-8112-87148451e51b)
+
+
